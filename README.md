@@ -27,8 +27,8 @@ python snip.py OR python snip_onnx.py
 
 ## Reference
 
-I highly copy the code easy_ocr_only_onnx folder and onnx model from this [repo](https://github.com/Kromtar/EasyOCR-ONNX.git)
-EasyOCR is originated from this [repo](https://github.com/JaidedAI/EasyOCR)
+* I highly copy the code easy_ocr_only_onnx folder and onnx model from this [repo](https://github.com/Kromtar/EasyOCR-ONNX.git)
+* EasyOCR is originated from this [repo](https://github.com/JaidedAI/EasyOCR)
 
 ## License
 
