@@ -1,6 +1,6 @@
 # Snip_With_Ocr_Your_Own
 
-easyocr을 이용한 캡쳐도구 제작
+easyocr을 이용해서 캡쳐한 이미지를 글씨로 바꾸는 도구 제작
 
 ## Installation & Usage
 
@@ -24,6 +24,8 @@ Place two kinds of model at the "onnx_models" folder
 ```python
 python snip.py OR python snip_onnx.py
 ```
+snip.py: pytorch 사용함.
+snip_onnx.py: onnx를 사용하여 용량이 더 작음.
 
 ## Reference
 
